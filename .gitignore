@@ -1,0 +1,6 @@
+.idea
+__pycache__
+venv
+old
+src/__pycache__
+experiments.ipynb
